@@ -1,0 +1,2 @@
+# baseDesignPatterns
+design patterns notes
